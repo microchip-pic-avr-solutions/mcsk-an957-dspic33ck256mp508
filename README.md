@@ -46,8 +46,7 @@ This section describes hardware setup required for the demonstration.
      <img  src="images/motorconnection.png"></p>
 3. Connect the  Hall Sensor wires (**thin**) from the motor to the **connector J7**,  provided on the Motor Control Development Board in the specified order (as shown in Table 3).
      <p align="left" >
-     <img  src="images/<p align="left" >
-     <img  src="images/hallsensorconnection.JPG"></p>
+     <img  src="images/hallsensorconnection.jpg"></p>
 
 4. Plug the 24V power supply to **connector J1** on the Motor Control Development Board. Alternatively, the development board can also be powered through connector J2.
 
