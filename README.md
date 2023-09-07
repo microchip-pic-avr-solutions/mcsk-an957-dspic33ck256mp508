@@ -1,10 +1,10 @@
 ![image](images/microchip.jpg) 
 
-# Hall Sensored Six-Step Commutation for BLDC Motor : dsPIC33CK Low Voltage Motor Control (LVMC) Board 
+# Hall Sensored Six-Step Commutation for BLDC Motor : dsPIC33CK Motor Control Starter Kit (MCSK)
 
 ## 1. INTRODUCTION
 <p style='text-align: justify;'>
-This document describes the setup requirements for driving the Brushless DC (BLDC) Motor using six-step commutation with Hall Sensor feedback on the hardware platform dsPIC33CK Low Voltage Motor Control (LVMC) Board.
+This document describes the setup requirements for driving the Brushless DC (BLDC) Motor using six-step commutation with Hall Sensor feedback on the dsPIC33CK Motor Control Starter Kit (MCSK).
 
 For details about six-step commutation of BLDC motor using Hall Sensor feedback, refer to Microchip application note [AN957](https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ApplicationNotes/ApplicationNotes/BLDCMC00957a.pdf)  “Sensored BLDC Motor Control”.</p>
 
