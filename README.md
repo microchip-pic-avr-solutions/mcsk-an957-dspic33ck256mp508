@@ -113,7 +113,7 @@ Follow the below instructions, step by step, to set up and run the motor control
 
      > **Note:** </br>
      > There are three different operating modes in this application - openloop duty control, closed loop speed control and closed loop torque control. 
-     > These modes can be selected in the application code using the macros <code>**OPEN_LOOP_FUNCTIONING**</code>, <code>**SPEED_PI_CLOSEDLOOP**</code> and <code>**CURRENT_PI_CLOSEDLOOP**</code>.
+     > These modes can be selected in the application code using the macros <code>**OPENLOOP**</code>, <code>**SPEED_PI_CLOSEDLOOP**</code> and <code>**CURRENT_PI_CLOSEDLOOP**</code>.
      Ensure that only one of the operating modes is defined at a time.
 
      <p align="left"><img  src="images/configParam.png"></p>
